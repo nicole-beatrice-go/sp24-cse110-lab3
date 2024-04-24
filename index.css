@@ -1,1 +1,34 @@
+h1 {
+    color: blue;
+    font-size: 24vh;
+    text-decoration: solid;
+    text-align: center;
+}
 
+form {
+    background-color: #f0f8ff;
+    border-style: dotted;
+    border-color: pink;
+    border-width: 0.001vw;
+    border-radius: 0.1em;
+    color: color(display-p3 1 0.5 0);
+    margin: 20px;
+    padding: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    color: color-mix(in lch, plum, pink);
+}
+
+* {
+    margin: auto;
+}
+
+input, option {
+    font-size: 1cm;
+    height: 10mm;
+    width: 90vw;
+    max-width: 100vw;
+    max-height: 50vw;
+}
