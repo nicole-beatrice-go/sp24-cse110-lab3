@@ -1,7 +1,7 @@
 h1 {
     color: blue;
     font-size: 24vh;
-    text-decoration: solid;
+    text-decoration: underline;
     text-align: center;
 }
 
@@ -11,14 +11,13 @@ form {
     border-color: pink;
     border-width: 0.001vw;
     border-radius: 0.1em;
-    color: color(display-p3 1 0.5 0);
+    color: burlywood;
     margin: 20px;
     padding: 20px;
 }
 
 h3 {
     font-size: 20px;
-    color: color-mix(in lch, plum, pink);
 }
 
 * {
